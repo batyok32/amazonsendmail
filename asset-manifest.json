@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20ff3dfa.css",
+    "main.js": "/static/js/main.f102f403.js",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "static/media/amazonember_heit-webfont.woff": "/static/media/amazonember_heit-webfont.f0a0cac77b1a9d81102d.woff",
+    "static/media/amazonember_rgit-webfont.woff": "/static/media/amazonember_rgit-webfont.1ed6b78beef0ec4fc1df.woff",
+    "static/media/amazon-ember-mediumitalic-webfont.woff": "/static/media/amazon-ember-mediumitalic-webfont.9c2d1ca0b88b5983ba16.woff",
+    "static/media/amazonember_thit-webfont.woff": "/static/media/amazonember_thit-webfont.cfe5589bf45ea95d7d74.woff",
+    "static/media/amazonember_ltit-webfont.woff": "/static/media/amazonember_ltit-webfont.9e1ae27caa8e09630922.woff",
+    "static/media/amazonember_bdit-webfont.woff": "/static/media/amazonember_bdit-webfont.5079a6523edf73d598b2.woff",
+    "static/media/amazonember_he-webfont.woff": "/static/media/amazonember_he-webfont.989135c33119e78a76ef.woff",
+    "static/media/amazon-ember-medium-webfont.woff": "/static/media/amazon-ember-medium-webfont.eabc3f2016c1cf0530eb.woff",
+    "static/media/amazonember_bd-webfont.woff": "/static/media/amazonember_bd-webfont.a9944ea3ecd168adfa2b.woff",
+    "static/media/amazonember_rg-webfont.woff": "/static/media/amazonember_rg-webfont.579b081a63fadc3a20b0.woff",
+    "static/media/amazonember_lt-webfont.woff": "/static/media/amazonember_lt-webfont.36df82a579065f5e86fd.woff",
+    "static/media/amazonember_th-webfont.woff": "/static/media/amazonember_th-webfont.0e9834fe5a39a779fb3e.woff",
+    "static/media/amazonember_heit-webfont.woff2": "/static/media/amazonember_heit-webfont.e21058112cd925b3c462.woff2",
+    "static/media/amazonember_rgit-webfont.woff2": "/static/media/amazonember_rgit-webfont.8e705647337da93571ad.woff2",
+    "static/media/amazon-ember-mediumitalic-webfont.woff2": "/static/media/amazon-ember-mediumitalic-webfont.19a3c7c593d121a06c0d.woff2",
+    "static/media/amazonember_thit-webfont.woff2": "/static/media/amazonember_thit-webfont.b2c7e0dcbb17c22a9189.woff2",
+    "static/media/amazonember_ltit-webfont.woff2": "/static/media/amazonember_ltit-webfont.d6d219d2883027e3eab7.woff2",
+    "static/media/amazonember_bdit-webfont.woff2": "/static/media/amazonember_bdit-webfont.4c7cb57912b64657a2b4.woff2",
+    "static/media/amazonember_he-webfont.woff2": "/static/media/amazonember_he-webfont.28386f0696c94ae4aa78.woff2",
+    "static/media/amazon-ember-medium-webfont.woff2": "/static/media/amazon-ember-medium-webfont.9f5653f1bdd22280f040.woff2",
+    "static/media/amazonember_bd-webfont.woff2": "/static/media/amazonember_bd-webfont.1fbbeae195baf69b7513.woff2",
+    "static/media/amazonember_rg-webfont.woff2": "/static/media/amazonember_rg-webfont.416b0f103d4e2e3ece36.woff2",
+    "static/media/amazonember_lt-webfont.woff2": "/static/media/amazonember_lt-webfont.3fcf690a652d6c5a4514.woff2",
+    "static/media/amazonember_th-webfont.woff2": "/static/media/amazonember_th-webfont.50fff781b10588e4fd8e.woff2",
+    "index.html": "/index.html",
+    "main.20ff3dfa.css.map": "/static/css/main.20ff3dfa.css.map",
+    "main.f102f403.js.map": "/static/js/main.f102f403.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20ff3dfa.css",
+    "static/js/main.f102f403.js"
+  ]
+}
